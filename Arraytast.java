@@ -1,5 +1,5 @@
 
-public class Arraytast {
+public class Arraytastห {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
